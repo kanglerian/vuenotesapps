@@ -1,5 +1,6 @@
 # vuenotes
-
+## Ada apa aja?
+Props, Conditional Rendering, Install Bootstrap
 ## Project setup
 ```
 npm install
